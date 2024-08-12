@@ -9,7 +9,7 @@ export default function Referencias() {
         <main className=''>
             <h1 className='uppercase text-center mt-8 pb-6 font-bold text-xl md:text-3xl text-botaoSelecionado font-openSans md:mt-10'>Referências</h1>
             
-            <section className='mt-2 font-openSans text-base ml-6 md:ml-12 text-justify max-w-fit md:mr-12 md:text-xl md:mt-4'>
+            <section className='mt-2 font-openSans text-base ml-7 md:ml-12 text-justify max-w-fit md:mr-12 md:text-xl md:mt-4 mr-8'>
                 <p className='md:mb-2'>Se você está em busca de uma alimentação saudável e balanceada, ou se quer apenas ter controle da dieta que está seguindo no momento, a nossa balança é perfeita para você!</p>
                 <br />
                 <p className='md:mb-2'>- Seguir uma dieta saudável e balanceada é de extrema importância para pessoas que estão buscando a hipertrofia ou apenas uma melhora na qualidade de vida. Nossa balança irá te ajudar nessa jornada!</p>
